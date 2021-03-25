@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<school>
+    <school>
+        <region>йцу</region>
+        <city>фыв</city>
+        <street>ячс</street>
+        <name>цук</name>
+        <directorName>ыва</directorName>
+    </school>
+    <school>
+        <region>a</region>
+        <city>qqq</city>
+        <street>www</street>
+        <name>eee</name>
+        <directorName>rrr</directorName>
+    </school>
+    <school>
+        <region>рег</region>
+        <city>сти</city>
+        <street>стр</street>
+        <name>имя</name>
+        <directorName>дир</directorName>
+    </school>
+    <school>
+        <region>рег</region>
+        <city>фыв</city>
+        <street>ыва</street>
+        <name>чсячс</name>
+        <directorName>фыв</directorName>
+    </school>
+</school>
